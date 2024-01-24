@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bu-hub-planner/static/css/main.b3febe22.css",
+    "main.js": "/bu-hub-planner/static/js/main.aa521350.js",
+    "static/js/787.3bd13bc3.chunk.js": "/bu-hub-planner/static/js/787.3bd13bc3.chunk.js",
+    "index.html": "/bu-hub-planner/index.html",
+    "main.b3febe22.css.map": "/bu-hub-planner/static/css/main.b3febe22.css.map",
+    "main.aa521350.js.map": "/bu-hub-planner/static/js/main.aa521350.js.map",
+    "787.3bd13bc3.chunk.js.map": "/bu-hub-planner/static/js/787.3bd13bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3febe22.css",
+    "static/js/main.aa521350.js"
+  ]
+}
